@@ -7,7 +7,7 @@ itsdangerous==0.24
 Jinja2==2.10
 lxml==4.2.3
 MarkupSafe==1.0
-PyJWT==1.6.4
+PyJWT==2.4.0
 PySocks==1.6.8
 python-firebase==1.2
 pytz==2018.5
